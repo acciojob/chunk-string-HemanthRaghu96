@@ -9,6 +9,7 @@ function stringChop(str, size) {
   return result;
 }
 
+
 // Do not change the code below
 const str = prompt("Enter String.");
 const size = prompt("Enter Chunk Size.");
